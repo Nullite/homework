@@ -1,15 +1,7 @@
-
-let b = prompt('1')
-
-function a() {
-    if (isNaN(b)) {
-        return -1
+let a = document.querySelector('.out');
+for (i = 2; i < 10; i++) {
+    for (j = 1; j < 5; j++) {
+        a.innerHTML += `${i} ^ ${j} = ${(i ** j)}<br>`
     }
-    else {
-        return -2
-    }
+    a.innerHTML += '<hr>'
 }
-
-a()
-
-console.log(a())
