@@ -1,7 +1,7 @@
-let a = document.querySelector('.out');
-for (i = 2; i < 10; i++) {
-    for (j = 1; j < 5; j++) {
-        a.innerHTML += `${i} ^ ${j} = ${(i ** j)}<br>`
-    }
-    a.innerHTML += '<hr>'
+const out = document.querySelector('.out');
+
+const someMassive = ['Roman', 'Nikolay', 'Vlad', 'Kirill', 'Sanek', 'Max']
+for (let i = 0; i < someMassive.length; i++) {
+    out.innerHTML += someMassive[i] + '<br><hr> '
+
 }
