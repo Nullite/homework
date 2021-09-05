@@ -1,7 +1,11 @@
-const out = document.querySelector('.out');
+function Random() {
+    const max = 100;
+    return Math.round(Math.random() * max);
+}
 
-const someMassive = ['Roman', 'Nikolay', 'Vlad', 'Kirill', 'Sanek', 'Max']
-for (let i = 0; i < someMassive.length; i++) {
-    out.innerHTML += someMassive[i] + '<br><hr> '
+const btn = document.getElementById('button');
+const div = document.getElementById('div');
 
+btn.onclick = function () {
+    div.innerHTML = Random();
 }
