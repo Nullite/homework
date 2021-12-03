@@ -1,0 +1,4 @@
+﻿  advertisement.cpp
+D:\coding\projects\C++\advertisement\advertisement\advertisement.cpp(10,6): warning C4129: |: неизвестная escape-последовательность
+D:\coding\projects\C++\advertisement\advertisement\advertisement.cpp(11,6): warning C4129: |: неизвестная escape-последовательность
+  advertisement.vcxproj -> D:\coding\projects\C++\advertisement\x64\Debug\advertisement.exe
