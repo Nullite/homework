@@ -1,0 +1,4 @@
+﻿  Completed Distance.cpp
+D:\coding\projects\C++\Completed Distance\Completed Distance\Completed Distance.cpp(33,27): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\coding\projects\C++\Completed Distance\Completed Distance\Completed Distance.cpp(33,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+  Completed Distance.vcxproj -> D:\coding\projects\C++\Completed Distance\x64\Debug\Completed Distance.exe
