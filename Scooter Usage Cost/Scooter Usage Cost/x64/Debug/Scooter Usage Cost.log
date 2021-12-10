@@ -1,0 +1,4 @@
+﻿  Scooter Usage Cost.cpp
+C:\Users\expte\Desktop\ДЗ\С++\Задание 3\Scooter Usage Cost\Scooter Usage Cost\Scooter Usage Cost.cpp(46,50): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\expte\Desktop\ДЗ\С++\Задание 3\Scooter Usage Cost\Scooter Usage Cost\Scooter Usage Cost.cpp(46,17): warning C4244: инициализация: преобразование "float" в "const int", возможна потеря данных
+  Scooter Usage Cost.vcxproj -> C:\Users\expte\Desktop\ДЗ\С++\Задание 3\Scooter Usage Cost\x64\Debug\Scooter Usage Cost.exe
