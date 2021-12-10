@@ -1,0 +1,8 @@
+﻿  Cost Of The Trip.cpp
+C:\Users\expte\Desktop\ДЗ\С++\Задание 3\Cost Of The Trip\Cost Of The Trip\Cost Of The Trip.cpp(8,33): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\expte\Desktop\ДЗ\С++\Задание 3\Cost Of The Trip\Cost Of The Trip\Cost Of The Trip.cpp(8,26): warning C4244: инициализация: преобразование "float" в "const int", возможна потеря данных
+C:\Users\expte\Desktop\ДЗ\С++\Задание 3\Cost Of The Trip\Cost Of The Trip\Cost Of The Trip.cpp(9,33): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\expte\Desktop\ДЗ\С++\Задание 3\Cost Of The Trip\Cost Of The Trip\Cost Of The Trip.cpp(9,26): warning C4244: инициализация: преобразование "float" в "const int", возможна потеря данных
+C:\Users\expte\Desktop\ДЗ\С++\Задание 3\Cost Of The Trip\Cost Of The Trip\Cost Of The Trip.cpp(10,33): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\expte\Desktop\ДЗ\С++\Задание 3\Cost Of The Trip\Cost Of The Trip\Cost Of The Trip.cpp(10,26): warning C4244: инициализация: преобразование "float" в "const int", возможна потеря данных
+  Cost Of The Trip.vcxproj -> C:\Users\expte\Desktop\ДЗ\С++\Задание 3\Cost Of The Trip\x64\Debug\Cost Of The Trip.exe
