@@ -1,0 +1,4 @@
+﻿  Vasya is Programmer.cpp
+C:\Users\expte\Desktop\ДЗ\С++\Задание 4\Vasya is Programmer\Vasya is Programmer\Vasya is Programmer.cpp(66,60): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\expte\Desktop\ДЗ\С++\Задание 4\Vasya is Programmer\Vasya is Programmer\Vasya is Programmer.cpp(85,48): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Vasya is Programmer.vcxproj -> C:\Users\expte\Desktop\ДЗ\С++\Задание 4\Vasya is Programmer\x64\Debug\Vasya is Programmer.exe
