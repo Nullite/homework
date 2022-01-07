@@ -1,0 +1,3 @@
+﻿  sum of element less a user specified.cpp
+C:\Users\expte\Desktop\ДЗ\С++\Задание 7\sum of element less a user specified\sum of element less a user specified\sum of element less a user specified.cpp(43,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  sum of element less a user specified.vcxproj -> C:\Users\expte\Desktop\ДЗ\С++\Задание 7\sum of element less a user specified\x64\Debug\sum of element less a user specified.exe
