@@ -1,0 +1,9 @@
+﻿  GUESS MY NUMBER.cpp
+C:\Users\expte\Desktop\ДЗ\С++\Задание 8\GUESS MY NUMBER\GUESS MY NUMBER\GUESS MY NUMBER.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\expte\Desktop\ДЗ\С++\Задание 8\GUESS MY NUMBER\GUESS MY NUMBER\GUESS MY NUMBER.cpp(189,37): warning C4129: : неизвестная escape-последовательность
+C:\Users\expte\Desktop\ДЗ\С++\Задание 8\GUESS MY NUMBER\GUESS MY NUMBER\GUESS MY NUMBER.cpp(195,37): warning C4129: : неизвестная escape-последовательность
+C:\Users\expte\Desktop\ДЗ\С++\Задание 8\GUESS MY NUMBER\GUESS MY NUMBER\GUESS MY NUMBER.cpp(206,37): warning C4129: : неизвестная escape-последовательность
+C:\Users\expte\Desktop\ДЗ\С++\Задание 8\GUESS MY NUMBER\GUESS MY NUMBER\GUESS MY NUMBER.cpp(212,37): warning C4129: : неизвестная escape-последовательность
+C:\Users\expte\Desktop\ДЗ\С++\Задание 8\GUESS MY NUMBER\GUESS MY NUMBER\GUESS MY NUMBER.cpp(237,52): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\expte\Desktop\ДЗ\С++\Задание 8\GUESS MY NUMBER\GUESS MY NUMBER\GUESS MY NUMBER.cpp(239,40): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  GUESS MY NUMBER.vcxproj -> C:\Users\expte\Desktop\ДЗ\С++\Задание 8\GUESS MY NUMBER\x64\Debug\GUESS MY NUMBER.exe
